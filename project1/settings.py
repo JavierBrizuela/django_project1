@@ -54,7 +54,7 @@ ROOT_URLCONF = 'project1.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["G:/apedido/python/Django/project1/project1/plantillas"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
